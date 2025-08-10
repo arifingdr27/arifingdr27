@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**arifingdr27/arifingdr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/arifingdr27">
+    <img
+         src="https://github-readme-stats.vercel.app/api?username=arifingdr27&show_icons=true&theme=radical"
+         alt="Github Stats arifin lenna"
+         align="center"
+         height="190"
+     />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## about me
+- Hi, I'm @arifingdr27
+- I'm interested in programming
+- I'm learning coding
+- I want to collaborate with friends around
+- How do you contact me? can be via email arifin@lenna.ai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+arifingdr27/arifingdr27 is a dedicated repository because `README.md` (this file) appears in your GitHub profile.
+You can click the Preview link to see your changes.
+--->
