@@ -16,7 +16,7 @@
 - I'm interested in programming
 - I'm learning coding
 - I want to collaborate with friends around
-- How do you contact me? can be via email arifin@lenna.ai
+- How do you contact me? can be via email arifingdr27@gmail.com
 
 <!---
 arifingdr27/arifingdr27 is a dedicated repository because `README.md` (this file) appears in your GitHub profile.
